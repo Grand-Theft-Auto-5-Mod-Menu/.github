@@ -1,4 +1,4 @@
-# GTA V Mod Menu – Ultimate Modding Tool for GTA 5 and GTA Online  
+# GTA V Mod Menu – Ultimate Modding Tool for GTA Online  
 
 ---
 
